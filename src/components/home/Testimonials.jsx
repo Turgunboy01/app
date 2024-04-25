@@ -11,7 +11,7 @@ const Testimonials = () => {
       >
         Testimonials
       </h1>
-      <div className="  grid grid-cols-2 justify-between gap-[100px] items-center">
+      <div className="flex justify-between gap-[100px] items-center">
         <div className="max-w-[480px]">
           <h1 className="text-[36px] text-[#000000] font-bold leading-[50px]">
             ⭐⭐⭐⭐⭐

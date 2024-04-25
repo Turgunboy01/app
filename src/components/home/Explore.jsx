@@ -16,7 +16,7 @@ const options = [
 
 const Explore = () => {
   return (
-    <div className="container mx-auto  grid grid-cols-2 mt-[72px]">
+    <div className="container mx-auto flex justify-between mt-[72px]">
       <div className="">
         <h1
           style={{ fontFamily: "Playfair Display" }}

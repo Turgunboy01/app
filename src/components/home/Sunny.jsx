@@ -4,7 +4,7 @@ import Button from "../Button";
 
 const Sunny = () => {
   return (
-    <div className=" container mx-auto grid grid-cols-2 justify-between gap-[100px] my-[200px] items-center">
+    <div className=" container mx-auto flex justify-between gap-[100px] my-[200px] items-center">
       <div className="max-w-[480px]">
         <h1
           style={{ fontFamily: "Playfair Display" }}
